@@ -1,1 +1,0 @@
-Presentation at Barcamp Stockholm, on March 9th, 2013.
